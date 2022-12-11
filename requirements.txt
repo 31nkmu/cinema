@@ -1,0 +1,8 @@
+django-filter
+django
+djangorestframework
+python-decouple
+psycopg2-binary
+dj_config_url
+drf_yasg
+djangorestframework_simplejwt
